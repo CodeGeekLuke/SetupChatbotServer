@@ -158,9 +158,6 @@ Now that Facebook and Heroku can talk to each other we can code out the bot.
     
 5. Go to the Facebook Page and click on Message to start chatting!
 
-![Alt text](/demo/shot4.jpg)
-
-
 
 ## 📡 How to share your bot
 
