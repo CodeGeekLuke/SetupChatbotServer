@@ -1,6 +1,5 @@
 # Configuring the server for your own Facebook Messenger bot
 
-![Alt text](/demo/Demo.gif)
 
 Facebook recently opened up their Messenger platform to enable bots to converse with users through Facebook Apps and on Facebook Pages. 
 
@@ -93,15 +92,13 @@ app.listen(app.get('port'), function() {
 
 1. Create or configure a Facebook App or Page here https://developers.facebook.com/apps/
 
-    ![Alt text](/demo/shot1.jpg)
 
 2. In the app go to Messenger tab then click Setup Webhook. Here you will put in the URL of your Heroku server and a token. Make sure to check all the subscription fields. 
 
-    ![Alt text](/demo/shot3.jpg)
 
 3. Get a Page Access Token and save this somewhere. 
 
-    ![Alt text](/demo/shot2.jpg)
+
 
 
 
