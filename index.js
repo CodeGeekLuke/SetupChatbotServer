@@ -23,7 +23,7 @@ let token = "EAAGCflihnZC0BAOojl4b9uwQvm9cxKQ4UUBFhQtjl1tKw3JAgZCPt6uggAaapBkZB9
 // Facebook 
 
 app.get('/webhook/', function(req, res) {
-	if (req.query['hub.verify_token'] === "blondiebytes") {
+	if (req.query['hub.verify_token'] === "ThomTex") {
 		res.send(req.query['hub.challenge'])
 	}
 	res.send("Wrong token")
